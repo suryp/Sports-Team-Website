@@ -1,0 +1,29 @@
+<html>
+<head>
+<title></title>
+</head>
+
+<body>
+	<div id ="wrapper">
+    	<div id ="logo"> <img src="Images/NaVi Logo.jpg" width="960" height="150" alt="Natus Vincere (Na'Vi)">
+        	</div>
+        
+        <div id ="Banner Image"> Insert Team Banner Here
+        	</div>
+            
+        <div id ="Social Media Icons"> Insert Facebook, Twitter, Instagram, and Steam Logos Here
+        	</div>
+            
+        <div id ="Navigation"> Insert Page Links for "Team" "Store" "Contact Us" and "Calendar" Here
+        	</div>
+            
+        <div id ="Content"> Natus Vincere (abbreviated and stylized as Na'Vi) is a Ukranian eSports franchise, where this website focuses on the Counter-Strike: Global Offensive team and their journeys. This is your one-stop-shop for all things Natus Vincere! Take a look aroud the site, we have many pages dedicated to giving you the content you want to know about Na'Vi. Use the Navigation Bar below the Na'Vi banner to seamlessly access the site. There are also Social Media Icons in the upper right hand corner that will take you to the teams various social media pages such as Steam, Facebook, Twitter, and Instagram. Thats pretty much all I can put in this section, as a majority of this information will also go into the "History" and "About Us" pages, but I just want to make this container look good and the site look professional so that Elvebak gives me a good grade on this assignment. because I really need it to balance out my horrid grade in Microsoft Office.
+        	</div>
+          
+        <div id ="RSS Feed"> Insert RSS Feed From Team Here
+        	</div>
+        
+        <div id ="Footer"> Copyright and Customer Service Numbers Go Here
+        
+</body>
+</html>
